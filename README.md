@@ -1,4 +1,4 @@
-# Decompiled with love by jakartanosia
+# Decompiled with love by jakartanosia & arocimorr
 ## Project Status
 ## ⚠️ THIS IS THE STEAM DECOMPILED VERSION!
 Shouldn't be hard to make it work on Ms Store too
