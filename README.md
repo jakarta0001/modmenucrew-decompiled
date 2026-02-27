@@ -1,5 +1,7 @@
 # Decompiled with love by jakartanosia
 ## Project Status
+## ⚠️ THIS IS THE STEAM DECOMPILED VERSION!
+Shouldn't be hard to make it work on Ms Store too
 
 This project is currently not fully stable. As it was created through a decompilation process, some features may be incomplete or not function as originally intended.
 However, several patches and adjustments have been implemented to ensure that most core functionalities are operational.
