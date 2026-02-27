@@ -1,6 +1,6 @@
 # Decompiled with love by jakartanosia & arocimorr 
 ## Version 6.0.8 ModMenuCrew
-## Project Status
+## Project Status: STABLE BUT IN DEVELOPMENT
 ## ⚠️ THIS IS THE STEAM DECOMPILED VERSION!
 Shouldn't be hard to make it work on Microsoft Store Among Us too
 
