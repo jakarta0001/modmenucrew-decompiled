@@ -2,7 +2,8 @@
 ## Version 6.0.8 ModMenuCrew
 ## Project Status
 ## ⚠️ THIS IS THE STEAM DECOMPILED VERSION!
-Shouldn't be hard to make it work on Ms Store too
+Shouldn't be hard to make it work on Microsoft Store Among Us too
+The premium functions weren't decompiled because they are server sided from what we know right now, the UI is not the same as the original because we had to edit by hand to make it work
 ## our discord join to talk to us :) https://discord.gg/V3GNBHxN
 ![image](gitassets/ingame.png)
 This project is currently not fully stable. As it was created through a decompilation process, some features may be incomplete or not function as originally intended.
