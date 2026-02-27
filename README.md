@@ -3,6 +3,7 @@
 ## ⚠️ THIS IS THE STEAM DECOMPILED VERSION!
 Shouldn't be hard to make it work on Ms Store too
 ## our discord join to talk to us :) https://discord.gg/V3GNBHxN
+![image](gitassets/ingame.png)
 This project is currently not fully stable. As it was created through a decompilation process, some features may be incomplete or not function as originally intended.
 However, several patches and adjustments have been implemented to ensure that most core functionalities are operational.
 
