@@ -1,4 +1,5 @@
-# Decompiled with love by jakartanosia & arocimorr
+# Decompiled with love by jakartanosia & arocimorr 
+## Version 6.0.8 ModMenuCrew
 ## Project Status
 ## ⚠️ THIS IS THE STEAM DECOMPILED VERSION!
 Shouldn't be hard to make it work on Ms Store too
